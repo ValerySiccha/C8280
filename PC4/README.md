@@ -1,1 +1,1 @@
-Buenas tardes profesor, acá le estoy dejando mi avance con la práctica 4, he tenido bastantes errores y no supe solucionarlos a pesar de haber consultado con algunos compañeros que ya habían concluído con la práctica y que me dieran sugerencias al respecto.
+Buenas noches profesor, acá le estoy dejando mi avance con la práctica 4, he tenido bastantes errores y no supe solucionarlos. 
